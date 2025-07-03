@@ -1,0 +1,1 @@
+console.log("Hello Everyone, today I am starting\nto practice Javascript for regular revision.")
