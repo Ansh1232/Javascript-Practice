@@ -1,1 +1,1 @@
-console.log("Hello Everyone, today I am starting\nto practice Javascript for regular revision.")
+console.log("Hello Everyone,\ntoday I am starting\nto practice Javascript for regular revision.")
